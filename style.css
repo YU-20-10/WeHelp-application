@@ -1,0 +1,7 @@
+p {
+    margin-bottom: 0;
+}
+
+.accordion-item + .accordion-item {
+    margin-top: 12px;
+}
